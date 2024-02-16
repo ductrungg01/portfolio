@@ -25,7 +25,7 @@ const Contact = () => {
       <p className="text-white/80 -mt-6">
         Please contact me directly at{" "}
         <a href="mailto:se.vuductrung.work@gmail.com" className="underline">
-        se.vuductrung.work@gmail.com or (+84) 931 646 220 (Phone/Zalo/WhatsApp)
+        se.vuductrung.work@gmail.com <br></br> or (+84) 931 646 220 (Phone/Zalo/WhatsApp)
         </a>{" "}
       </p>
       
