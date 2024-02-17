@@ -67,7 +67,7 @@ const Intro = () => {
               "I enjoy building Game App.",
               "I enjoy building Game Engine.",
               "I enjoy building Game tools.",
-              "I enjoy researching Algorithm."
+              "I enjoy researching about Algorithm."
             ]}
             speed={50}
             loop={true}

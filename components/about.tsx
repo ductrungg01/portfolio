@@ -52,7 +52,7 @@ const About = () => {
         Outside the coding realm, I indulge in reading, leveraging E-learning
         platforms (like Udemy, Coursera), participate in algorithm/hackathon competitions
         /codeforce contest every week, exploring the world history,
-        planting tree and make Terrarium.
+        planting tree and making Terrarium.
       </p>
     </motion.section>
   );
