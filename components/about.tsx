@@ -18,9 +18,9 @@ const About = () => {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-4">
-        Graduated with a{" "}
+        Graduated as an{" "}
         <span className="font-bold">
-          Bachelor&apos;s degree in Software Engineering 
+        Engineer majoring in Software Engineering 
         </span>
         {" "}from the {" "} 
         <span className="font-bold">
