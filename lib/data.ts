@@ -69,7 +69,7 @@ export const projectData = [
     title: "NiceEngine",
     description:
       "2D game engine inspired by Unity, Cocos2D, Hazel Engine and UIT's \"Game Dev intro\" course. Improved to suit students who are just starting to learn about Game Dev.",
-    tags: ["Game Engine", "Java core", "OpenGL", "ImGUI", "JBox2D"],
+    tags: ["Game Engine", "Java core", "OpenGL", "ImGUI", "JBox2D", "GSon"],
     imageUrl: niceengine,
     link: "https://github.com/ductrungg01/NiceEngine"
   },
@@ -108,7 +108,7 @@ export const projectData = [
   {
     title: "FlappyBird clone",
     description:
-      "Flappy Bird clone game make by Pygame.",
+      "Flappy Bird clone game make by Python/Pygame.",
     tags: ["Python", "Pygame"],
     imageUrl: flappyBird,
     link: "https://github.com/ductrungg01/FlappyBirdPython"
