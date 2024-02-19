@@ -85,7 +85,7 @@ export const projectData = [
     title: "Tanks",
     description:
       "A tank shooting game developed using Unity.",
-    tags: ["Unity", "C#", "NavMesh", "UniTask", "ObjectPool", "ScriptableObject", "Observers"],
+    tags: ["Unity", "C#", "NavMesh", "UniTask", "ObjectPool"],
     imageUrl: tanksunity,
     link: "https://github.com/ductrungg01/Tanks"
   },
