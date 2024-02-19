@@ -44,7 +44,7 @@ export const experiencesData = [
     description:
       "Participating in a Metaverse project, creating an online learning support product for teaching centers and universities. Developed by Unreal Engine 5",
     icon: React.createElement(CgWorkAlt),
-    date: "July 2023 - Present",
+    date: "July 2023 - Dec 2023",
   },
   {
     title: "Unity Game Developer Internship at Wolffun Game",
