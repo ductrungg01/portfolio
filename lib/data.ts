@@ -129,10 +129,11 @@ export const skillsData = [
   "C++",
   "Java",
   "Python/Pygame",
+  "Algorithm",
+  "SDL/SDL2",
   "OpenGL",
   "HTML/CSS/JavaScript",
   "SQL Server",
   ".NET",
-  "Algorithm",
   "OOP"
 ] as const;
