@@ -44,7 +44,7 @@ export const experiencesData = [
     description:
       "Participating in a Metaverse project, creating an online learning support product for teaching centers and universities. Developed by Unreal Engine 5",
     icon: React.createElement(CgWorkAlt),
-    date: "July 2023 - Dec 2023",
+    date: "July 2023 - March 2024",
   },
   {
     title: "Unity Game Developer Internship at Wolffun Game",
@@ -129,11 +129,13 @@ export const skillsData = [
   "C++",
   "Java",
   "Python/Pygame",
-  "Algorithm",
+  "Algorithm/Data Structure",
   "SDL/SDL2",
   "OpenGL",
   "HTML/CSS/JavaScript",
-  "SQL Server",
+  "SQL Database",
   ".NET",
-  "OOP"
+  "OOP",
+  "Golang",
+  "Unit Testing"
 ] as const;

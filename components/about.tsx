@@ -45,13 +45,13 @@ const About = () => {
         My programming expertise extends across various aspects, with a core
         focus on{" "}
         <span className="font-bold">
-          Unity, Unreal Engine, C++, C#, Java Core, .NET Core, SQL Server, Algorithm, Python and HTML/CSS/JavaScript.
+          Unity, Unreal Engine, C++, C#, Java, .NET, SQL Database, Algorithm, Python, Golang, HTML/CSS/JavaScript, Unit Test, SDL/SDL2.
         </span>
       </p>
       <p>
         Outside the coding realm, I indulge in reading, leveraging E-learning
         platforms (like Udemy, Coursera), participate in algorithm/hackathon competitions
-        /codeforce contest every week, exploring the world history,
+        /Codeforce contest every week, exploring the world history, playing Badminton/Football/Billiard,
         planting tree and making Terrarium.
       </p>
     </motion.section>
