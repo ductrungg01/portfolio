@@ -39,20 +39,20 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Unreal Engine Developer at AwayDigitalHome",
+    location: "Ho Chi Minh City, Vietnam",
+    description:
+      "I participated in an architectural visualization project with Away Digital (https://www.awaydigitalhome.com/), where we developed an interactive 3D home experience that allows users to customize and modify the house design in real time. Developed by Unreal Engine 5!",
+    icon: React.createElement(CgWorkAlt),
+    date: "Sep 2024 - Present",
+  },
+  {
     title: "Junior Unreal Engine Game Developer at World@Meta",
     location: "Ho Chi Minh City, Vietnam",
     description:
       "Participating in a Metaverse project, creating an online learning support product for teaching centers and universities. Developed by Unreal Engine 5",
     icon: React.createElement(CgWorkAlt),
     date: "July 2023 - March 2024",
-  },
-  {
-    title: "Unity Game Developer Internship at Wolffun Game",
-    location: "Ho Chi Minh City, Vietnam",
-    description:
-      "This was the time I worked as an intern at Wolffun Game company. I am involved in the Front-end development of the Thetan Rivals product. In addition, I also participated in the process of developing the map generation algorithm for the game The Glass Bridge (an unreleased product).",
-    icon: React.createElement(FaLaptopCode),
-    date: "Oct 2022 - March 2023",
   },
   {
     title: "Student at Nguyen Chi Thanh gifted highschool",
@@ -125,8 +125,9 @@ export const projectData = [
 export const skillsData = [
   "Unity",
   "C#",
-  "Unreal Engine",
+  "Unreal Engine (Blueprint)",
   "C++",
+  "Natural Language Processing (NLP)",
   "Java",
   "Python/Pygame",
   "Algorithm/Data Structure",

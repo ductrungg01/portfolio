@@ -60,15 +60,16 @@ const Intro = () => {
       >
         <span className="font-bold">Xin chao, I&apos;m Duc Trung.</span> I&apos;m a{" "}
         <span className="font-bold">professional developer</span> with nearly{" "}
-        <span className="font-bold">2 years</span> of experience.
+        <span className="font-bold">3 years</span> of experience.
         <p>
           <Typewriter
             text={[
               "I enjoy building Game App/Engine/Tools.",
               "I enjoy researching about Software Development.",
-              "I enjoy researching about Algorithm."
+              "I enjoy researching about Algorithm.",
+              "I enjoy exploring Natural Language Processing (NLP)."
             ]}
-            speed={50}
+            speed={100}
             loop={true}
             delay={1000}
           />

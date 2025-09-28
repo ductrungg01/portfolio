@@ -45,7 +45,7 @@ const About = () => {
         My programming expertise extends across various aspects, with a core
         focus on{" "}
         <span className="font-bold">
-          Unity, Unreal Engine, C++, C#, Java, .NET, SQL Database, Algorithm, Python, Golang, HTML/CSS/JavaScript, Unit Test, SDL/SDL2.
+          Unreal Engine (Blueprint), Unity, Python, Natural Languague Processing (NLP), C++, C#, Java, .NET, SQL Database, Algorithm, Golang, HTML/CSS/JavaScript, Unit Test, SDL/SDL2.
         </span>
       </p>
       <p>
