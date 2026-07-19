@@ -1,6 +1,5 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
-import { FaLaptopCode, FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import flappyBird from "@/public/flappybird.jpg";
 import skyguardianunity from "@/public/SkyGuardian-unity.jpg";
@@ -20,16 +19,16 @@ export const links = [
     hash: "#about",
   },
   {
-    name: "Projects",
-    hash: "#projects",
-  },
-  {
     name: "Skills",
     hash: "#skills",
   },
   {
     name: "Experience",
     hash: "#experience",
+  },
+  {
+    name: "Personal Projects",
+    hash: "#projects",
   },
   {
     name: "Contact",
@@ -123,10 +122,10 @@ export const projectData = [
 ] as const;
 
 export const skillsData = [
+  "Unreal Engine",
+  "C++",
   "Unity",
   "C#",
-  "Unreal Engine (Blueprint)",
-  "C++",
   "Natural Language Processing (NLP)",
   "Java",
   "Python/Pygame",
