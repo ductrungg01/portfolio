@@ -8,12 +8,12 @@ import Footer from "@/components/footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
+const yearsOfExperience = new Date().getFullYear() - 2024 + 1;
+
 export const metadata: Metadata = {
   title: "Vu Duc Trung | Personal Portfolio",
-  description:
-    "Vu Duc Trung is a full-stack developer with nearly 2 years of experience",
+  description: `Vu Duc Trung is a software developer with nearly ${yearsOfExperience} years of experience.`,
 };
-
 export default function RootLayout({
   children,
 }: {
