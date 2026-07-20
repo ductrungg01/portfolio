@@ -59,7 +59,7 @@ const Intro = () => {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Xin chao, I&apos;m Duc Trung.</span> I&apos;m a{" "}
-        <span className="font-bold">professional developer</span> with nearly{" "}
+        <span className="font-bold">professional developer</span> with {" "}
         <span className="font-bold">
            {new Date().getFullYear() - 2024 + 1} years
         </span> of experience.

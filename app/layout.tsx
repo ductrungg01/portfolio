@@ -12,7 +12,7 @@ const yearsOfExperience = new Date().getFullYear() - 2024 + 1;
 
 export const metadata: Metadata = {
   title: "Vu Duc Trung | Personal Portfolio",
-  description: `Vu Duc Trung is a software developer with nearly ${yearsOfExperience} years of experience.`,
+  description: `Vu Duc Trung is a software developer with ${yearsOfExperience} years of experience.`,
 };
 export default function RootLayout({
   children,
